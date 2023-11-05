@@ -17,7 +17,9 @@ while (numeroSecreto != numeroDigitado) {
     );
   }
 }
-/* Desafio 1: El numero secreto es mayor o menor que el numero digitado (muestra el numero digitado), defina la cantidad de intentos para ingresar el numero secreto.
-Desafio 2: muestra en pantalla la cantidad de intentos realizados.
-Desafio 3: Numero de intentos necesarios para descubrir el numero secreto.
+/* ¡Desafíos de la clase!
+Agregar un número de intentos para que la persona intente acertar e imprimir la respuesta al final;
+Cuando la persona se equivoque, incluir el número que fue digitado en el mensaje de error e informar en el mensaje si el número digitado es mayor o menor que el número secreto;
+Descubrir el número máximo que una persona lleva para adivinar un número correcto;
+Investigar y aprender la diferencia entre == y ===.
 */
